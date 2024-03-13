@@ -1,0 +1,8 @@
+Inicio del algoritmo
+    Definir una variable texto y asignarle una cadena vacía
+    
+    Para cada número i en el rango de 10 a 20 hacer
+        Concatenar la frase "The number is " con el valor de i y "<br>" a la variable texto
+    
+    Actualizar el contenido del elemento HTML con ID "ciclo" con el valor de texto
+Fin del algoritmo
